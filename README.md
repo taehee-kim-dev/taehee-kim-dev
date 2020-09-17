@@ -1,8 +1,12 @@
 ### 안녕하세요, 반갑습니다. 👋
 
-- :computer: 서버 개발자 지망생입니다.
+<div style="text-align: center">
+    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaehee-kim-dev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
 
-- :pencil2: Spring(Boot), JPA를 공부하고 있습니다.
+- :computer: 개발자 지망생입니다.
+
+- :pencil2: Node.js, React Native, Spring(Boot), JPA
 
 - :page_facing_up: <a href="https://docs.google.com/document/d/1p27zb_eB1UUrV55By_oAZil4FEOA3l42BnmCWCqllMg/edit?usp=sharing" target="_blank">포트폴리오</a>
 
