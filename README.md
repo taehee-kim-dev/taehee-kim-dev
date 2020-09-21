@@ -8,6 +8,8 @@
 
 - :blue_book: <a href="https://taehee-kim-dev.tistory.com/" target="_blank">블로그</a>
 
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taehee-kim-dev)](https://www.linkedin.com/in/taehee-kim-dev)
+
 - [![Facebook Badge](https://img.shields.io/badge/facebook-1877F2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/taehee.kim.dev)](https://www.facebook.com/taehee.kim.dev)
 
 
