@@ -1,6 +1,6 @@
 ### 안녕하세요, 반갑습니다. 👋
 
-- :computer: 개발자 지망생입니다.
+- :computer: 백엔드 개발자 지망생입니다.
 
 - :pencil2: Spring(Boot), JPA
 
