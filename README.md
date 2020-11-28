@@ -1,10 +1,10 @@
 ### 안녕하세요, 반갑습니다. 👋
 
-- :computer: 백엔드 개발자 지망생입니다.
+- 💻 Back-End (Spring, JPA)
 
-- :pencil2: Spring(Boot), JPA
+- 📄 <a href="https://docs.google.com/document/d/1p27zb_eB1UUrV55By_oAZil4FEOA3l42BnmCWCqllMg/edit?usp=sharing" target="_blank">Portfolio</a>
 
-- :page_facing_up: <a href="https://docs.google.com/document/d/1p27zb_eB1UUrV55By_oAZil4FEOA3l42BnmCWCqllMg/edit?usp=sharing" target="_blank">포트폴리오</a>
+- 📘 <a href="https://taehee-kim-dev.tistory.com/" target="_blank">Blog</a>
 
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taehee-kim-dev)](https://www.linkedin.com/in/taehee-kim-dev)
 
