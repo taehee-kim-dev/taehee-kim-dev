@@ -1,6 +1,6 @@
 ### 안녕하세요, 반갑습니다. 👋
 
-- 💻 Back-End (Spring, JPA)
+- 💻 Web Back-End (Spring, JPA, AWS)
 
 - 📄 <a href="https://docs.google.com/document/d/1p27zb_eB1UUrV55By_oAZil4FEOA3l42BnmCWCqllMg/edit?usp=sharing" target="_blank">Portfolio</a>
 
