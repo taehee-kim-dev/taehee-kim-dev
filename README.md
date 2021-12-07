@@ -4,7 +4,7 @@
 
 - :pencil2: 우아한테크코스 3기 백엔드 교육 수료
 
-- 📄 <a href="https://taehee-kim-dev.notion.site/f5b8744276824877ae9388c2763b640e" target="_blank">Resume</a>
+- 📄 <a href="https://bit.ly/kth-resume-211207" target="_blank">Resume</a>
 
 - 📘 <a href="https://taehee-kim-dev.github.io" target="_blank">Blog</a> 
 
