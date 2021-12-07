@@ -1,10 +1,8 @@
 ### 안녕하세요, 반갑습니다. 👋
 
 - 🎓 인천대학교 컴퓨터공학부 졸업
-- (2021.02 ~ ) 우아한테크코스 3기 백엔드 크루
 
-- 💻 Web Back-End (Spring, JPA, AWS)
-
+- :pencil2: 우아한테크코스 3기 백엔드 교육 수료
 
 - 📄 <a href="https://taehee-kim-dev.notion.site/f5b8744276824877ae9388c2763b640e" target="_blank">Resume</a>
 
