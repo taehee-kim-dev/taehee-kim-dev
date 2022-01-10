@@ -1,10 +1,6 @@
 ### 안녕하세요, 반갑습니다. 👋
 
-- 🎓 인천대학교 컴퓨터공학부 졸업
-
-- :pencil2: 우아한테크코스 3기 백엔드 교육 수료
-
-- 📄 <a href="https://bit.ly/kth-resume-211207" target="_blank">Resume</a>
+<!-- - 📄 <a href="https://bit.ly/kth-resume-211207" target="_blank">Resume</a> -->
 
 - 📘 <a href="https://taehee-kim-dev.github.io" target="_blank">Blog</a> 
 
