@@ -2,7 +2,7 @@
 
 <!-- - 📄 <a href="https://bit.ly/kth-resume-211207" target="_blank">Resume</a> -->
 
-- 📘 <a href="https://www.taehee-kim-dev.com" target="_blank">Tech Blog</a> 
+- 📘 <a href="https://taehee-kim-dev.github.io" target="_blank">Tech Blog</a> 
 
 
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taehee-kim-dev)](https://www.linkedin.com/in/taehee-kim-dev)
